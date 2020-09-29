@@ -10,10 +10,12 @@ Sections:
 2. Feature Engineering
 3. Feature Selection and Logistic Model build
 
-
 AV ROC-AUC Scores:
 
-Public Score : 0.5014
-Private Score : 0.7902
+Training Score :0.843
+Test Score : 0.841
 
-Kindly Comment on the approach for better learning
+Submission Public Score : 0.5014
+Submission Private Score : 0.7902
+
+Kindly Comment on the approach for model improvement and learning
